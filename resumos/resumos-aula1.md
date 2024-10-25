@@ -1,5 +1,9 @@
-para salvar alteração 
+para salvar alteração: entro na pasta
+git add (nome do arquivo)
+git status (p ver a alteraçao e commitar elas)
+git commit -m ""
 
+-------------------------------
 
 para desfazer a pasta .git
 rm -rf .git
